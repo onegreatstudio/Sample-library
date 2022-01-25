@@ -46,6 +46,6 @@ yarn.lock
 **.fuse_hidden*
 
 /spec/*
-db/import/GRI/
 
+#Ignore test
 test.http
